@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sherlocky/\346\241\214\351\235\242/MNIST_project/Module/model.ckpt"
+all_model_checkpoint_paths: "/home/sherlocky/\346\241\214\351\235\242/MNIST_project/Module/model.ckpt"
